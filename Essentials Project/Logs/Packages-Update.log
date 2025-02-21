@@ -1,0 +1,11 @@
+
+=== Fri Feb 21 10:07:02 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.multiplayer.center@1.0.0
+The following packages were updated:
+  com.unity.collab-proxy from version 2.4.4 to 2.5.2
+  com.unity.inputsystem from version 1.9.0 to 1.11.2
