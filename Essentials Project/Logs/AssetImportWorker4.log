@@ -396,3 +396,27 @@ Memory consumption went from 172.9 MB to 167.8 MB.
 Total: 23.286600 ms (FindLiveObjects: 1.742000 ms CreateObjectMapping: 2.772400 ms MarkObjects: 12.141100 ms  DeleteObjects: 6.485800 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 4087.299394 seconds.
+  path: Assets/_Unity Essentials/Scripts/Provided Scripts
+  artifactKey: Guid(f191f68b56ed64c63a3d95a05dea9556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Scripts/Provided Scripts using Guid(f191f68b56ed64c63a3d95a05dea9556) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b012737894e68d978265d606ef1046ce') in 0.7941324 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.296545 seconds.
+  path: Assets/_Unity Essentials/Scripts/Provided Scripts/Collectible2D.cs
+  artifactKey: Guid(613c788f1945544f5baa134130a6b70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Scripts/Provided Scripts/Collectible2D.cs using Guid(613c788f1945544f5baa134130a6b70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10406e12abf7a9043fa55193c9de469a') in 0.0040299 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.714711 seconds.
+  path: Assets/_Unity Essentials/Scripts/Provided Scripts/PlayerController2D.cs
+  artifactKey: Guid(4e7179393266b4d039813b2dec39dd1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Scripts/Provided Scripts/PlayerController2D.cs using Guid(4e7179393266b4d039813b2dec39dd1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e51ba9706b78e9e565f2d4eb1918fd2e') in 0.0058343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
